@@ -12,7 +12,7 @@
     "contributes": {
         "snippets": [
             {
-                "language": "html",
+                "language": "html,ejs,jade,php,twig,pug,xml",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
