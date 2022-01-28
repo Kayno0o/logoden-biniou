@@ -2,7 +2,7 @@
     "name": "logoden-biniou",
     "displayName": "logoden-biniou",
     "description": "lorem ipsum mais en breton",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -12,7 +12,6 @@
     "contributes": {
         "snippets": [
             {
-                "language": "html,ejs,jade,php,twig,pug,xml",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
@@ -20,5 +19,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/kayno0o/logoden-biniou.git"
-    }
+    },
+    "publisher": "kaynooo"
 }
